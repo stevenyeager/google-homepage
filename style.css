@@ -1,4 +1,5 @@
 navbar {
+  font-family: Helvetica, sans-serif;
   text-align: right;
   float: right;
   top: 0;
@@ -20,7 +21,7 @@ input {
   height: 5%;
   margin-left: 33%;
   position: absolute;
-  font-size: 20px;
+  font-size: 24px;
 }
 
 img {
@@ -31,9 +32,7 @@ img {
     width: 30%;
 }
 
-
 #buttons {
   margin-top: 4%;
   text-align: center;
 }
-

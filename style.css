@@ -31,9 +31,9 @@ img {
     width: 30%;
 }
 
-<div id="buttons">
- <button type=submit>Google Search</button>
- <button type=submit>I'm Feeling Lucky</button>
-</div>
 
-</body>
+#buttons {
+  margin-top: 4%;
+  text-align: center;
+}
+
